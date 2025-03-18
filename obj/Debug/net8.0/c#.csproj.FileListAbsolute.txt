@@ -1,0 +1,14 @@
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\bin\Debug\net8.0\c#.exe
+C:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\bin\Debug\net8.0\c#.deps.json
+C:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\bin\Debug\net8.0\c#.runtimeconfig.json
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\bin\Debug\net8.0\c#.dll
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\bin\Debug\net8.0\c#.pdb
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.AssemblyInfoInputs.cache
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.AssemblyInfo.cs
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.csproj.CoreCompileInputs.cache
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.dll
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\refint\c#.dll
+c:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.pdb
+C:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\c#.genruntimeconfig.cache
+C:\Users\Alex\Documents\1-David\Material Uni\Sistemas\Paradigmas\c#\obj\Debug\net8.0\ref\c#.dll
