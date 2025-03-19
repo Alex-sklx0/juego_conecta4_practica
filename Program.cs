@@ -86,7 +86,7 @@ public class Tablero{
     }
     public bool SePuedeColorearFicha(int ejey, int ejex, char color){
         bool coloreado;
-    if (ejey >= 1 && ejey <= 6 && ejex >= 1 && ejex <= 7){
+    if (ejey >= 1 && ejey < 7 && ejex >= 1 && ejex < 8){
         if(color=='r' && _tablero[ejey,ejex]==" # "){
             
             _tablero[ejey,ejex]=" X ";
